@@ -1,2 +1,2 @@
-# messages-spam-detection
-Spam detection Web app
+# Images-spam-detection
+Images-spam-detection
